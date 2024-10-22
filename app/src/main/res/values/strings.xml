@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP7</string>
+    <string name="sub_operation_text">sub</string>
+    <string name="div_operation_text">div</string>
+    <string name="add_operation_text" >add</string>
+    <string name="type_operand_two_hint" />
+    <string name="type_operand_one_hint" />
+    <string name="mul_operation_text">mul</string>
+    <string name='computationError'>Error</string>
+</resources>
